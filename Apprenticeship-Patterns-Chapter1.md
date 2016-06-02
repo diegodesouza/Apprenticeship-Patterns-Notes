@@ -10,10 +10,10 @@ Apprenticeship Patterns
  * We tend to carry our thought process from our first language to a second language. Whereas the second language may have its own way of doing it. 
 
  
- * Carol Dweck (Mindset) *"Effort is what makes you smart or talented", failure is mrely an incentive to try a different approach next time.*
+ * Carol Dweck (Mindset) *"Effort is what makes you smart or talented", failure is merely an incentive to try a different approach next time.*
  
  * We need to be able to adapt based on the feedback we get from around us. 
-  * "The willingness to recognize the inadequacies in what you do an dto seek out solutions"
+  * "The willingness to recognize the inadequacies in what you do and to seek out solutions"
 * Share what we know. 
   * It reinforces the knowledge in us. 
 * Willingness to experiment and be proven wrong.
@@ -36,7 +36,6 @@ Apprenticeship Patterns
 * Be able to create something that will impact others
   * mentor others and teach them where their knowledge may surpass yours.
   
-
 **What is apprenticeship?**
 
 * Apprenticeship is a way to learn about being a professional software developer.
@@ -44,6 +43,3 @@ Apprenticeship Patterns
 **What is an apprenticeship pattern?**
 
 * Interconnected set of solutions to common problems in a specific domain. 
-
-
-
