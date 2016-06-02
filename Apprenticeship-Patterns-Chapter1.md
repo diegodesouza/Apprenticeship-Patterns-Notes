@@ -10,7 +10,6 @@ Apprenticeship Patterns
  * We tend to carry our thought process from our first language to a second language. Whereas the second language may have its own way of doing it. 
 
  
--
  * Carol Dweck (Mindset) *"Effort is what makes you smart or talented", failure is mrely an incentive to try a different approach next time.*
  
  * We need to be able to adapt based on the feedback we get from around us. 
@@ -23,6 +22,28 @@ Apprenticeship Patterns
 
 **What does it mean to be an apprentice?**
 
+* Being an apprentice is always having a mentality that there's always a better/smarter/faster way to do what you just did and what you're currently doing.
+* My apprenticeship is in my control, and the outcome is in my responsability.
+
+**What does it mean to be a journeyman?**
+
+* Focused on building a portfolio and gain more knowledge from a master.
+* journeyman will have more responsability, will communicate more. 
+
+**What does it mean to be a master?**
+
+* Focus on moving the industry forward.
+* Be able to create something that will impact others
+  * mentor others and teach them where their knowledge may surpass yours.
+  
+
+**What is apprenticeship?**
+
+* Apprenticeship is a way to learn about being a professional software developer.
+
+**What is an apprenticeship pattern?**
+
+* Interconnected set of solutions to common problems in a specific domain. 
 
 
 
