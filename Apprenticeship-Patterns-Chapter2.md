@@ -1,5 +1,34 @@
-Get the other info from the other computer.
+Apprenticeship Patterns
+-
 
+#### Chapter 2 - Emptying the Cup
+
+#### Your first language
+
+  * "The technical terms of any progession or trade are incomprehensible
+  to those who have never been trained to use them. But this is not because they are difficult
+  in themselves. On the contrary they have invariable been introduced to make things easy."
+
+-
+
+**Context**
+  
+  * shallow understanding of a programming language.
+
+**Problem**
+  
+  * being efficient with your current job, delivering code with the same efficacy as your colleagues. 
+
+**Solution** 
+  
+  * Become fluent in a language. This being the main language you solve problems with.
+  * Learning by trying to solve a real problem is the best way to learn. (building something)
+
+**Action**
+
+  * Read the languages documentation, source code and tests, blogs, and books.
+  * Try to solve "famouns" problems in your native language.
+-
 
 #### The White Belt
 
